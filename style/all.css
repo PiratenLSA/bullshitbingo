@@ -1,0 +1,13 @@
+table#bingotable {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+table#bingotable td {
+  width: 20%;
+  height: 20%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  text-align: center;
+}

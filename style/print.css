@@ -1,0 +1,11 @@
+.notprint {
+  display: none;
+}
+
+table#bingotable {
+  width: 100%;
+}
+
+table#bingotable td {
+  height: 2cm;
+}
