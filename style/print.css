@@ -9,3 +9,7 @@ table#bingotable {
 table#bingotable td {
   height: 2cm;
 }
+
+#impressum {
+  margin-top: 20px;
+}
