@@ -79,5 +79,7 @@ function fillTable() {
 }
 
 window.onload = function () {
+  $('#nojs').hide();
+  $('#js').show();
   fillTable();
 }
